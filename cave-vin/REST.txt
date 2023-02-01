@@ -1,0 +1,15 @@
+{
+    "id": 0,
+    "nom": "Chateau d'Aquitaine",
+    "region": {
+        "id": 10,
+        "nom": "Nouvelle-Aquitaine"
+    },
+    "couleur": {
+        "id": 3,
+        "nom": "Rouge"
+    },
+    "petillant": false,
+    "millesime": "2002",
+    "quantite": 1212
+}
